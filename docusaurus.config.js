@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: "David's Blog",
   tagline: 'Dinosaurs are cool',
   url: 'https://crazyfox55.github.io',
-  baseUrl: '/',
+  baseUrl: '/Blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
