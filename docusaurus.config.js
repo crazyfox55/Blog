@@ -24,13 +24,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/crazyfox55/Blog/docs',
+          editUrl: 'https://github.com/crazyfox55/Blog',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/crazyfox55/Blog/blog',
+            'https://github.com/crazyfox55/Blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -93,7 +93,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/crazyfox55',
+                href: 'https://github.com/crazyfox55/Blog',
               },
             ],
           },
